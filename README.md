@@ -2,6 +2,7 @@
 ### 1) Скачиваем Python, желательно 3.10
 <ul>https://www.python.org/downloads/</ul>
 <ul>обязательно добавляем python в PATH</ul>
+
 ### 2) скачиваем Tesseract
 <ol>
 <li>Скачиваем https://github.com/UB-Mannheim/tesseract/wiki.</li>
@@ -24,7 +25,13 @@ pip install pytesseract
 <li>В поиск вбиваем @BotFather</li>
 <li>Пишем ему /newbot</li>
 <li>Пишите ему иму и никнейм</li>
-<li></li>
-<li></li>
-
+<li>Он выдаст токен бота</li>
+<li>Вписать токен бота вместо <b>TOKEN</b></li>
 </ol>
+
+### 5) запускаем бота
+<ul>открываем в папке cmd/powershell (shift + пкм по пустому месту в папке)</ul>
+<ul>пишем python ./main.py</ul>
+<ul>Переходим к своему боту в телеграм и пишем /trade</ul>
+
+Каждый раз придется выполнять пункт 5, чтобы запустить бота
